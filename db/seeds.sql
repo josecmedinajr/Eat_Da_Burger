@@ -1,4 +1,4 @@
 INSERT INTO burgers (burger_name, devoured)
-VALUES ("Miami Open Burger", true);
+VALUES ("Bootcamp Super Burger", true);
 INSERT INTO burgers (burger_name, devoured)
-VALUES ("Super Duper Burger", false);
+VALUES ("Miami Open Cheeseburger", false);

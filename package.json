@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/josecmedinajr/Eat_Da_Burger/issues"
   },
-  "homepage": "https://github.com/josecmedinajr/Eat_Da_Burger#readme"
+  "homepage": "https://github.com/josecmedinajr/Eat_Da_Burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "install": "^0.13.0",
+    "mysql": "^2.18.1",
+    "npm": "^6.14.5"
+  }
 }
