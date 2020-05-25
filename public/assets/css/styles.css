@@ -45,6 +45,18 @@ img {
     margin-right: auto;
 }
 
+#burg {
+    width: 200px;
+    height: 20px;
+    font-size: 16px;
+}
+
+button {
+    background-color: #fcd305;
+    color: black;
+    font-size: 16px;
+}
+
 .burgersTitle {
     font-size: 27px;
     color: #fcd305;
