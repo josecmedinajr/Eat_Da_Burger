@@ -18,7 +18,7 @@
   "homepage": "https://github.com/josecmedinajr/Eat_Da_Burger#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "express-handlebars": "^4.0.4",
+    "express-handlebars": "^5.3.1",
     "install": "^0.13.0",
     "mysql": "^2.18.1",
     "npm": "^6.14.5"
